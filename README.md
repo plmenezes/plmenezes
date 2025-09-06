@@ -1,6 +1,6 @@
 Seja bem vindo(a) ao meu github
 
-Me chamo Pedro Lucas, sou estudante de ciência da comutação, atualmente aprendendo C/C++
+Estudante de Engenharia de software|Java|Phyton
 
 
 
